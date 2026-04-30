@@ -53,6 +53,12 @@
               "optimization": false,
               "extractLicenses": false,
               "sourceMap": true
+            },
+            "github-pages": {
+              "outputMode": "static",
+              "server": false,
+              "ssr": false,
+              "outputHashing": "all"
             }
           },
           "defaultConfiguration": "production"
